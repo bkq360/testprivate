@@ -1,0 +1,6 @@
+Git is a version control sysytem
+Git is free software GLP
+
+Git has a mutable index called stage
+Git tracks changes
+Git modify.
